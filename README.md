@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Web-Animation-AI-Motion-Design/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Web-Animation-AI-Motion-Design?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Web-Animation-AI-Motion-Design/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Web-Animation-AI-Motion-Design?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Web-Animation-AI-Motion-Design/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Web-Animation-AI-Motion-Design?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Web-Animation-AI-Motion-Design/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Web-Animation-AI-Motion-Design"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
@@ -61,7 +61,7 @@ The table below lists leading SaaS and hosted animation products sorted in desce
 
 ## 💻 Open-Source GitHub Projects
 
-Explore the top open-source web animation engines, layout transition frameworks, 3D WebGL runtimes, and AI motion design skills. Ranked in descending order by **GitHub Star Count**, each repo features an official social star badge directly linking to its stargazers page.
+Explore the top open-source web animation engines, layout transition frameworks, 3D WebGL runtimes, and AI motion design skills. Ranked in descending order by **GitHub Stars_Count**, each repo features an official social Stars_Badge directly linking to its stargazers page.
 
 1. **[mrdoob/three.js](https://github.com/mrdoob/three.js)** [![Stars](https://img.shields.io/github/stars/mrdoob/three.js?style=social&color=white)](https://github.com/mrdoob/three.js/stargazers)  
    *JavaScript 3D library powering WebGL, WebGPU, realistic physics, interactive shaders, and spatial 3D web motion.*
